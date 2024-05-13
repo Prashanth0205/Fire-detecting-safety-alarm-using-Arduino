@@ -19,4 +19,4 @@ This project focuses on the development of a Fire Accident Detection System aime
 
 ## Circuit Diagram 
 
-![]
+![Circuit Diagram](image.png)
